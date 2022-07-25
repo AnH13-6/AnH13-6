@@ -8,6 +8,8 @@ After studying Japanese and Philosophy, working as an editor for art books and <
 </div>
 
 </p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=purple&right_color=pink)
 <!--
 **AnH13-6/AnH13-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

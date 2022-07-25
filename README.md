@@ -4,6 +4,8 @@ After living in Australia and Japan, working as an editor for art books
 and translating video games and comics I'm currently studying to become a Web Developer. :computer: :books: 
 
 
+![](https://media.giphy.com/media/OMK7LRBedcnhm/giphy.gif)
+
 <!--
 **AnH13-6/AnH13-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

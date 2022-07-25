@@ -1,11 +1,13 @@
-# Hi there 👋
+<h1 align=center> Hi there 👋</h1> 
 
-After studying Japanese and Philosophie, working as an editor for art books 
-and translating video games and comics I'm currently studying to become a Web Developer. :sparkles: :computer: :books: :sparkles: 
+<p align=center>
+After studying Japanese and Philosophy, working as an editor for art books and <br> translating video games and comics, I'm currently studying to become a Web Developer. :sparkles: :computer: :nerd_face: :books: :sparkles: 
 
+<div align=center>
+<img src= https://media.giphy.com/media/OMK7LRBedcnhm/giphy.gif>
+</div>
 
-![](https://media.giphy.com/media/OMK7LRBedcnhm/giphy.gif)
-
+</p>
 <!--
 **AnH13-6/AnH13-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

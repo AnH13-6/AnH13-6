@@ -1,7 +1,7 @@
 # Hi there 👋
 
-After living in Australia and Japan, working as an editor for art books 
-and translating video games and comics I'm currently studying to become a Web Developer. :computer: :books: 
+After studying Japanese and Philosophie, working as an editor for art books 
+and translating video games and comics I'm currently studying to become a Web Developer. :sparkles: :computer: :books: :sparkles: 
 
 
 ![](https://media.giphy.com/media/OMK7LRBedcnhm/giphy.gif)

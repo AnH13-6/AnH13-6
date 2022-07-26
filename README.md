@@ -1,7 +1,7 @@
 <h1 align=center> Hi there 👋</h1> 
 
 <p align=center>
-After studying Japanese and Philosophy, working as an editor for art books and <br> translating video games and comics, I'm currently studying to become a Web Developer. :sparkles: :computer: :nerd_face: :books: :sparkles: 
+After studying Japanese and Philosophy, working as an editor for art books and <br> translating video games and comics, I'm currently studying to become a Web Developer. :sparkles: :computer: :books: :sparkles: 
 
 <div align=center>
 <img src= https://media.giphy.com/media/OMK7LRBedcnhm/giphy.gif>
